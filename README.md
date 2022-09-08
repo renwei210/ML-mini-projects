@@ -1,4 +1,4 @@
-# 机器学习练习小项目
+# ML-mini-projects
 
 >在notebook环境中，主要使用sklearn-learn和tensorflow完成机器学习中的各种算法，例如sigmoid二分类，决策树，KNN，KMeans等。
 
